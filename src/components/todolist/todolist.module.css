@@ -1,0 +1,8 @@
+.red {
+    background: red;
+}
+
+.rightPosition {
+    display: flex;
+    justify-content: space-between;
+}
